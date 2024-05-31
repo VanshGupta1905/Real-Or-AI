@@ -1,10 +1,10 @@
-# Real-Or-AI
+# Real-or-AI: A Deep Learning Image Classifier
 Framework :Tensoflow
 Library :Keras
  Model: VGG19
 Detecting Wether Image is Real or AI Generated
 
-Project Title: Real-or-AI: A Deep Learning Image Classifier
+
 
 Description:
 
