@@ -19,3 +19,11 @@ Robust Model: Employs a fine-tuned VGG19 model, a powerful convolutional neural 
 TensorFlow & Keras: Built using the popular TensorFlow deep learning framework and its high-level Keras API for ease of implementation and experimentation.
 
 Data-Driven Approach: Trained and evaluated on a diverse dataset containing both real photographs and AI-generated images from various sources.
+
+
+
+Not many projects specifically focus on real vs. AI image detection. This makes it interesting to potential employers and demonstrates your ability to tackle emerging problems.
+
+Goes beyond a simple "does it work?" approach. Includes visualization tools, a clear evaluation process, and a focus on modularity for future improvements.
+
+Addresses a real-world issue with implications for media, security, and AI research. This showcases the value of your work beyond just the technical aspects.
