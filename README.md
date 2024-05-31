@@ -5,7 +5,7 @@ Library :Keras
 Detecting Wether Image is Real or AI Generated
 
 
-## After Trying Multiple Model VGG19 gave the Higher Accuracy
+## After Trying Multiple Model VGG19 gave the Highest Accuracy
 
 Description:
 
